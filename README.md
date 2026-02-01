@@ -7,9 +7,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="64" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" height="64" alt="framer logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="64" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="64" alt="figma logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="64" alt="c logo"  />
   <img width="16" />
@@ -27,7 +27,7 @@
 
 ###
 <div align="center">
-<img src="https://raw.githubusercontent.com/anshpal06/anshpal06/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/an6h/an6h/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
